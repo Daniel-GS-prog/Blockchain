@@ -8,8 +8,11 @@ We use some imports from the OpenZeppelin Github account with regards to contrac
 <br>
 There are two files:
 <br>
-* Main.sol: with the main functionality of the contract
+<br>
 
+
+
+* Main.sol: with the main functionality of the contract.
 * Allowance.sol: all the allowance functionality to be used from the mail.sol file.
 
 ## End
